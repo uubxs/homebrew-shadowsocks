@@ -9,7 +9,7 @@ Install brew, please refer: https://brew.sh/
 ### Installing
 
 ```
-brew tap ye4241/shaodowsocks
+brew tap ye4241/homebrew-shadowsocks
 ```
 
 ### Details
