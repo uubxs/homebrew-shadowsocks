@@ -14,13 +14,11 @@ Install brew, please refer: https://brew.sh/
 brew tap ye4241/homebrew-shadowsocks
 ```
 
-### Details
-
-shaodowsocksx-ng: original client for Shaodowsocks
-
-shaodowsocksx-ng-r8: client for ShaodowsocksR
-
-electron-ssr: alternative client for ShaodowsocksR
+| Name               | Description                          | Command                                |
+| ------------------ | ------------------------------------ | -------------------------------------- |
+| ShadowsocksX NG    | original client for Shaodowsocks     | `brew cask install shaodowsocksx-ng`   |
+| ShadowsocksX NG R8 | client for ShaodowsocksR             | `brew cask install shaodowsocksx-ng-r` |
+| Electron SSR       | alternative client for ShaodowsocksR | `brew cask install electron-ssr`       |
 
 ## Authors
 
