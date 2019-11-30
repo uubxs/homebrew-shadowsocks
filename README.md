@@ -2,6 +2,8 @@
 
 Install Shadowsocks/ShadowsocksR clients for macOS with brew.
 
+## Getting Started
+
 ### Prerequisites
 
 Install brew, please refer: https://brew.sh/
