@@ -24,7 +24,7 @@ brew tap ye4241/homebrew-shadowsocks
 
 - **ye4241** - _Initial work_ - [ye4241](https://github.com/ye4241)
 
-See also the list of [contributors](https://github.com/ye4241/shadowsocks/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ye4241/homebrew-shadowsocks/contributors) who participated in this project.
 
 ## License
 
